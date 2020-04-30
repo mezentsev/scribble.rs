@@ -36,6 +36,7 @@ var (
 		MaxClientsPerIPLimit: 24,
 	}
 	SupportedLanguages = map[string]string{
+		"russian": "Russian",
 		"english": "English",
 		"italian": "Italian",
 		"german":  "German",
