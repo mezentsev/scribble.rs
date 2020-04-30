@@ -11,6 +11,7 @@ import (
 var (
 	wordListCache = make(map[string][]string)
 	languageMap   = map[string]string{
+		"russian": "ru",
 		"english": "en",
 		"italian": "it",
 		"german":  "de",
